@@ -41,3 +41,6 @@ def decoder(image):
 
 encoder('Taming_Of_The_Shrew.txt').save("image3.png")
 #print(decoder("image3.png"))
+
+
+#this is a test
